@@ -1,0 +1,1 @@
+python main.py --cell_line HS936T --expnm cell_line_fix_test_sgrna_derived_b  --wo_cl_loss_level_1 --loss_cl_level_2 1e-05 --num_epochs 16 --loss_cl_sample 2 --result_dir ../result --train_ratio 0.3 --scheduler_step 13 --scheduler_gamma 0.8 --store_model
